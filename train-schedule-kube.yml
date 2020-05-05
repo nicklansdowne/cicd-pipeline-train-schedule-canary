@@ -46,3 +46,5 @@ spec:
         resources:
           requests:
             cpu: 200m
+      imagePullSecrets:
+      - name: dockerlogin
