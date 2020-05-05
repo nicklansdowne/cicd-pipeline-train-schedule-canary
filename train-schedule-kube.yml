@@ -47,4 +47,4 @@ spec:
           requests:
             cpu: 200m
       imagePullSecrets:
-      - name: dockerlogin
+      - name: rdockerhublogin
